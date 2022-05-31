@@ -1,4 +1,0 @@
-name: MemeHub
-version: '${project.version}'
-main: de.vertwinex.memehub.MemeHub
-author: Vertwinex
